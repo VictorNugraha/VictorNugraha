@@ -1,3 +1,5 @@
+![](https://github.com/VictorNugraha/VictorNugraha/blob/main/banner.png)
+
 ### Hi there 👋
 
 <!--
