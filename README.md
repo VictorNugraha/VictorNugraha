@@ -13,6 +13,8 @@ I have 2 years plus experienced in Product role with a demonstrated history of w
 
 <br />
 
+[instagram]: https://www.instagram.com/vicnp10/
+[linkedin]: https://www.linkedin.com/in/victor-nugraha-baa694160/
 <!--
 **VictorNugraha/VictorNugraha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
