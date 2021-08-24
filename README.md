@@ -1,6 +1,6 @@
 ![](https://github.com/VictorNugraha/VictorNugraha/blob/main/banner.png)
 
-# Hello World! I'm Victor Nugraha 👋
+# Hello World, I'm Victor! 👋
 
 I have 2 years plus experienced in Product role with a demonstrated history of working in B2C & B2B Company to conduct product analysis and product management, with additional Data Science certified skill from Hacktiv8 Indonesia and Algoritma Data Science School in R and Python languages to discover the hidden information in vast amount of data and develop various kinds of machine learning model.
 
