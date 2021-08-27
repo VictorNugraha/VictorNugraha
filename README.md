@@ -2,18 +2,25 @@
 
 ## Hello World, I'm Victor! 👋
 
-
-
-- 🔭 I’m currently working on my project called [InvestNow](https://vicnp.shinyapps.io/InvestNow/)
-- 🌱 I’m currently learning everything about everything especially data related topics 
-- 👯 I’m looking to for a job as a Data Scientsit or Machine Learning Engineer
-- 💬 Ask me about anything
+- ✍ I’m currently working on my project called [InvestNow](https://vicnp.shinyapps.io/InvestNow/).
+- 🌱 I’m currently learning everything about everything especially data related topics.
+- 🔭 I’m looking to for a job as a Data Scientsit or Machine Learning Engineer.
+- 💬 Ask me about anything!
+- 🥅 2021 Goals: Create more projects to improve my skills.
 - ⚡ Fun fact: March 14 or 3/14 is celebrated as pi day because 3.14 are the first digits of pi.
 
 ## Get In Touch!
 
 [<img align="left" alt="Victor Nugraha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vicnp10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+## Languanges & Tools:
+
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
+
+## 📕 Latest RPubs Posts
+
+➡️ [more RPubs posts...](https://rpubs.com/VicNP)
 
 <br />
 
