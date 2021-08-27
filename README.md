@@ -9,7 +9,7 @@
 - 🥅 2021 Goals: Create more projects to improve my skills.
 - ⚡ Fun fact: March 14 or 3/14 is celebrated as pi day because 3.14 are the first digits of pi.
 
-## Languanges & Tools:
+## ⚙️ Languanges & Tools:
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -26,7 +26,7 @@
 
 ➡️ [more RPubs posts...](https://rpubs.com/VicNP)
 
-## Get In Touch!
+## 👀 Get In Touch!
 
 [<img align="left" alt="Victor Nugraha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vicnp10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
