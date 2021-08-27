@@ -22,7 +22,7 @@
 - [FAANG Stock Dashboard Growth Visualization](https://vicnp.shinyapps.io/faang-stock-dashboard/)
 
 <img alt="faang" width="400px" src="https://github.com/VictorNugraha/Shiny-Dashboard-FAANG_Stock/blob/main/faang_dashboard.gif" />
-<br>
+
 ## 📕 Latest RPubs Posts
 
 - [Stock Marketing Timming Suggestion (Buy/Sell/Hold Classification) Using Machine Learning](https://rpubs.com/VicNP/stock-market-timing-suggest)
