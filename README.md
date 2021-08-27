@@ -1,6 +1,6 @@
 ![](https://github.com/VictorNugraha/VictorNugraha/blob/main/banner.png)
 <p align="center">
-## Hello World, I'm Victor! 👋
+<h3> Hello World, I'm Victor! 👋</h3>
 </p>
 - ✍ I’m currently working on my project called [InvestNow](https://vicnp.shinyapps.io/InvestNow/).
 - 🌱 I’m currently learning everything about everything especially data related topics.
