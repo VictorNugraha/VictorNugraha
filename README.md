@@ -12,21 +12,21 @@
 ## 📑 Latest Projects
 
 - InvestNow
-
-<img alt="invest" width="300px" src="https://github.com/VictorNugraha/InvestNow-stock-buy-sell-hold-classification/blob/main/InvestNow_gif.gif" />
 <br>
+<img alt="invest" width="400px" src="https://github.com/VictorNugraha/InvestNow-stock-buy-sell-hold-classification/blob/main/InvestNow_gif.gif" />
+
 Live demo: https://vicnp.shinyapps.io/InvestNow/
 <br>
 - NER API
-
-<img alt="api" width="300px" src="https://github.com/VictorNugraha/CAPSTONE-NER_FlaskAPI/blob/main/rest_api_gif.gif" />
 <br>
+<img alt="api" width="400px" src="https://github.com/VictorNugraha/CAPSTONE-NER_FlaskAPI/blob/main/rest_api_gif.gif" />
+
 Live demo: https://app-ner-flask-api.herokuapp.com/
 <br>
 - FAANG Stock Dashboard Growth Visualization 
-
-<img alt="faang" width="300px" src="https://github.com/VictorNugraha/Shiny-Dashboard-FAANG_Stock/blob/main/faang_dashboard.gif" />
 <br>
+<img alt="faang" width="400px" src="https://github.com/VictorNugraha/Shiny-Dashboard-FAANG_Stock/blob/main/faang_dashboard.gif" />
+
 Live demo: https://vicnp.shinyapps.io/faang-stock-dashboard/
 <br>
 ## 📕 Latest RPubs Posts
