@@ -1,4 +1,4 @@
-![](https://github.com/VictorNugraha/VictorNugraha/blob/main/banner.png)
+![](https://github.com/VictorNugraha/VictorNugraha/blob/main/banner.jpg)
 
 ## Hello World, I'm Victor! 👋
 
