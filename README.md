@@ -18,6 +18,7 @@
 <img align="left" alt="faang" width="256px" src="https://github.com/VictorNugraha/Shiny-Dashboard-FAANG_Stock/blob/main/faang_dashboard.gif" />
 
 <br>
+<br>
 
 ## 📕 Latest RPubs Posts
 
