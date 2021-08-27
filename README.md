@@ -16,10 +16,13 @@
 
 ## Languanges & Tools:
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 ## 📕 Latest RPubs Posts
 
+- [Stock Marketing Timming Suggestion (Buy/Sell/Hold Classification) Using Machine Learning](https://rpubs.com/VicNP/stock-market-timing-suggest)
+- [K-Means Clustering To Determine Which Country In The Direst Need Of Aid](https://rpubs.com/VicNP/uml-kmeans-clustering)
+- [Comparison Between Naive Bayes, Decision Tree & Random Forest to Predict Whether The Customer Interested In Vehicle Insurance](https://rpubs.com/VicNP/lbb-cm2)
 ➡️ [more RPubs posts...](https://rpubs.com/VicNP)
 
 <br />
