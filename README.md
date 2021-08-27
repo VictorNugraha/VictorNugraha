@@ -14,7 +14,7 @@
 <img align="left" alt="invest" width="260px" src="https://github.com/VictorNugraha/InvestNow-stock-buy-sell-hold-classification/blob/main/InvestNow_gif.gif" />
 <img align="left" alt="api" width="260px" src="https://github.com/VictorNugraha/CAPSTONE-NER_FlaskAPI/blob/main/rest_api_gif.gif" />
 <img align="left" alt="faang" width="260px" src="https://github.com/VictorNugraha/Shiny-Dashboard-FAANG_Stock/blob/main/faang_dashboard.gif" />
-<br />
+<br><br>
 
 ➡️ [More projects...](https://github.com/VictorNugraha?tab=repositories)
 <br>
@@ -35,13 +35,9 @@
 <img align="left" alt="jupyter" width="26px" src="https://github.com/VictorNugraha/VictorNugraha/blob/main/jn.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="shiny" width="26px" src="https://github.com/VictorNugraha/VictorNugraha/blob/main/shiny.png" />
-
 <br>
 
 ## 👀 Get In Touch!
-
-[<img align="left" alt="Victor Nugraha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vicnp10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <a href="https://www.linkedin.com/in/victor-nugraha-baa694160/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/vicnp10/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
