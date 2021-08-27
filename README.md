@@ -9,13 +9,28 @@
 - 🥅 2021 Goals: Create more projects to improve my skills.
 - ⚡ Fun fact: March 14 or 3/14 is celebrated as pi day because 3.14 are the first digits of pi.
 
+## 📑 Latest Projects
+
+- InvestNow
+
+
+Live demo: https://vicnp.shinyapps.io/InvestNow/
+
+- NER API
+
+Live demo: https://app-ner-flask-api.herokuapp.com/
+
+- FAANG Stock Dashboard Growth Visualization 
+
+Live demo: https://vicnp.shinyapps.io/faang-stock-dashboard/
+
 ## 📕 Latest RPubs Posts
 
 - [Stock Marketing Timming Suggestion (Buy/Sell/Hold Classification) Using Machine Learning](https://rpubs.com/VicNP/stock-market-timing-suggest)
 - [K-Means Clustering To Determine Which Country In The Direst Need Of Aid](https://rpubs.com/VicNP/uml-kmeans-clustering)
 - [Comparison Between Naive Bayes, Decision Tree & Random Forest to Predict Whether The Customer Interested In Vehicle Insurance](https://rpubs.com/VicNP/lbb-cm2)
 
-➡️ [more RPubs posts...](https://rpubs.com/VicNP)
+➡️ [More RPubs posts...](https://rpubs.com/VicNP)
 
 ## ⚙️ Languanges & Tools:
 
