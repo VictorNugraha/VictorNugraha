@@ -13,19 +13,19 @@
 
 - InvestNow
 
-<alt="invest" width="300px" src="https://github.com/VictorNugraha/InvestNow-stock-buy-sell-hold-classification/blob/main/InvestNow_gif.gif" />
+<img alt="invest" width="300px" src="https://github.com/VictorNugraha/InvestNow-stock-buy-sell-hold-classification/blob/main/InvestNow_gif.gif" />
 <br>
 Live demo: https://vicnp.shinyapps.io/InvestNow/
 <br>
 - NER API
 
-<alt="api" width="300px" src="https://github.com/VictorNugraha/CAPSTONE-NER_FlaskAPI/blob/main/rest_api_gif.gif" />
+<img alt="api" width="300px" src="https://github.com/VictorNugraha/CAPSTONE-NER_FlaskAPI/blob/main/rest_api_gif.gif" />
 <br>
 Live demo: https://app-ner-flask-api.herokuapp.com/
 <br>
 - FAANG Stock Dashboard Growth Visualization 
 
-<alt="faang" width="300px" src="https://github.com/VictorNugraha/Shiny-Dashboard-FAANG_Stock/blob/main/faang_dashboard.gif" />
+<img alt="faang" width="300px" src="https://github.com/VictorNugraha/Shiny-Dashboard-FAANG_Stock/blob/main/faang_dashboard.gif" />
 <br>
 Live demo: https://vicnp.shinyapps.io/faang-stock-dashboard/
 <br>
