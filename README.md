@@ -1,7 +1,7 @@
 ![](https://github.com/VictorNugraha/VictorNugraha/blob/main/banner.png)
-
-## <center>Hello World, I'm Victor! 👋</center>
-
+<p align="center">
+## Hello World, I'm Victor! 👋
+</p>
 - ✍ I’m currently working on my project called [InvestNow](https://vicnp.shinyapps.io/InvestNow/).
 - 🌱 I’m currently learning everything about everything especially data related topics.
 - 🔭 I’m looking to for a job as a Data Scientsit or Machine Learning Engineer.
