@@ -12,11 +12,8 @@
 ## 📑 Latest Projects
 
 <img align="left" alt="invest" width="256px" src="https://github.com/VictorNugraha/InvestNow-stock-buy-sell-hold-classification/blob/main/InvestNow_gif.gif" />
-
 <img align="left" alt="api" width="256px" src="https://github.com/VictorNugraha/CAPSTONE-NER_FlaskAPI/blob/main/rest_api_gif.gif" />
-
 <img align="left" alt="faang" width="256px" src="https://github.com/VictorNugraha/Shiny-Dashboard-FAANG_Stock/blob/main/faang_dashboard.gif" />
-
 <br>
 <br>
 
