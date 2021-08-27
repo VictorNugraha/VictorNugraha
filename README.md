@@ -2,7 +2,13 @@
 
 ## Hello World, I'm Victor! 👋
 
-I have 2 years plus experienced in Product role with a demonstrated history of working in B2C & B2B Company to conduct product analysis and product management, with additional Data Science certified skill from Hacktiv8 Indonesia and Algoritma Data Science School in R and Python languages to discover the hidden information in vast amount of data and develop various kinds of machine learning model.
+
+
+- 🔭 I’m currently working on my project called [InvestNow](https://vicnp.shinyapps.io/InvestNow/)
+- 🌱 I’m currently learning everything about everything especially data related topics 
+- 👯 I’m looking to for a job as a Data Scientsit or Machine Learning Engineer
+- 💬 Ask me about anything
+- ⚡ Fun fact: March 14 or 3/14 is celebrated as pi day because 3.14 are the first digits of pi.
 
 ## Get In Touch!
 
@@ -16,6 +22,8 @@ I have 2 years plus experienced in Product role with a demonstrated history of w
 
 <!--
 **VictorNugraha/VictorNugraha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I have 2 years plus experienced in Product role with a demonstrated history of working in B2C & B2B Company to conduct product analysis and product management, with additional Data Science certified skill from Hacktiv8 Indonesia and Algoritma Data Science School in R and Python languages to discover the hidden information in vast amount of data and develop various kinds of machine learning model.
 
 Here are some ideas to get you started:
 
