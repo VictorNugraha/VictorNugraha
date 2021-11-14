@@ -4,7 +4,7 @@
 
 - ✍ I’m currently working on my project called [InvestNow](https://vicnp.shinyapps.io/InvestNow/).
 - 🌱 I’m currently learning everything about everything especially data related topics.
-- 🔭 I’m looking to for a job as a Data Scientsit or Machine Learning Engineer.
+- 🔭 I’m looking foward to improve my skill as a Data Scientist.
 - 💬 Ask me about anything!
 - 🥅 2021 Goals: Create more projects to improve my skills.
 - ⚡ Fun fact: March 14 or 3/14 is celebrated as pi day because 3.14 are the first digits of pi.
