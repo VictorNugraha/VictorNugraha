@@ -21,9 +21,9 @@
 
 ## 📕 Latest RPubs Posts
 
+- [Clustering For Both Numerical & Categorical Data](https://rpubs.com/VicNP/854173)
+- [Bagaimana Melakukan analisis Sentiment Pada Berita Harga Emas Dengan Model LSTM](https://rpubs.com/VicNP/sentiment-analysis-lstm)
 - [Stock Marketing Timming Suggestion (Buy/Sell/Hold Classification) Using Machine Learning](https://rpubs.com/VicNP/stock-market-timing-suggest)
-- [K-Means Clustering To Determine Which Country In The Direst Need Of Aid](https://rpubs.com/VicNP/uml-kmeans-clustering)
-- [Comparison Between Naive Bayes, Decision Tree & Random Forest to Predict Whether The Customer Interested In Vehicle Insurance](https://rpubs.com/VicNP/lbb-cm2)
 
 ➡️ [More RPubs posts...](https://rpubs.com/VicNP)
 
