@@ -21,7 +21,7 @@
 
 ## 📕 Latest RPubs Posts
 
-- [Time Series Forecasting Dengan Framework Modeltime](hhttps://rpubs.com/VicNP/modeltime_TSF)
+- [Time Series Forecasting Dengan Framework Modeltime](https://rpubs.com/VicNP/modeltime_TSF)
 - [Clustering Untuk Data Numerik & Kategorik](https://rpubs.com/VicNP/clust-num-cat)
 - [Bagaimana Melakukan analisis Sentiment Pada Berita Harga Emas Dengan Model LSTM](https://rpubs.com/VicNP/sentiment-analysis-lstm)
 
