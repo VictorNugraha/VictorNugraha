@@ -2,7 +2,7 @@
 
 ## Hello World, I'm Victor! 👋
 
-- ✍ I’m currently working on my project called [InvestNow](https://vicnp.shinyapps.io/InvestNow/).
+- ✍ I’m currently working as Data Science Instructor at Algortima Data Science Academy.
 - 🌱 I’m currently learning everything about everything especially data related topics.
 - 🔭 I’m looking foward to improve my skill as a Data Scientist.
 - 💬 Ask me about anything!
@@ -21,9 +21,9 @@
 
 ## 📕 Latest RPubs Posts
 
-- [Clustering For Both Numerical & Categorical Data](https://rpubs.com/VicNP/854173)
+- [Time Series Forecasting Dengan Framework Modeltime](hhttps://rpubs.com/VicNP/modeltime_TSF)
+- [Clustering Untuk Data Numerik & Kategorik](https://rpubs.com/VicNP/clust-num-cat)
 - [Bagaimana Melakukan analisis Sentiment Pada Berita Harga Emas Dengan Model LSTM](https://rpubs.com/VicNP/sentiment-analysis-lstm)
-- [Stock Marketing Timming Suggestion (Buy/Sell/Hold Classification) Using Machine Learning](https://rpubs.com/VicNP/stock-market-timing-suggest)
 
 ➡️ [More RPubs posts...](https://rpubs.com/VicNP)
 
