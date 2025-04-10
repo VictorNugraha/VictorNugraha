@@ -6,18 +6,7 @@
 - 🌱 I’m currently learning everything about everything especially data related topics.
 - 🔭 I’m looking foward to improve my skill as a Data Scientist.
 - 💬 Ask me about anything!
-- 🥅 2022 Goals: Create more projects to improve my skills.
 - ⚡ Fun fact: March 14 or 3/14 is celebrated as pi day because 3.14 are the first digits of pi.
-
-## 📑 Latest Projects
-
-<img align="left" alt="invest" width="5px" src="https://github.com/VictorNugraha/InvestNow-stock-buy-sell-hold-classification/blob/main/InvestNow_gif.gif" />
-<img align="left" alt="api" width="5px" src="https://github.com/VictorNugraha/CAPSTONE-NER_FlaskAPI/blob/main/rest_api_gif.gif" />
-<img align="left" alt="faang" width="5px" src="https://github.com/VictorNugraha/Shiny-Dashboard-FAANG_Stock/blob/main/faang_dashboard.gif" />
-<br><br><br><br>
-
-➡️ [More projects...](https://github.com/VictorNugraha?tab=repositories)
-<br>
 
 ## 📕 Latest RPubs Posts
 
