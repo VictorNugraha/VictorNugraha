@@ -14,7 +14,7 @@ Beyond instruction, I have hands-on experience developing machine learning model
 
 <div align="center">
 <h2>
-🖊️ Projects & Articles
+Projects & Articles 🖊️
 </h2>
 </div>
 
@@ -38,7 +38,7 @@ Beyond instruction, I have hands-on experience developing machine learning model
 
 <div align="center">
 <h3>
-⚙️ Technologies I've been learning and using so far
+Technologies I've been learning and using so far ⚙️ 
 </h3>
 </div>
 
