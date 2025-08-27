@@ -9,7 +9,7 @@ Hello World, I'm Victor! 👋
 <a href="mailto:victor.nugraha37@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> 
 
 <p align="center">
-I have dedicated the past three years to learn and teaching Data Science across various industries. As an instructor at [Algoritma Data Science School](https://algorit.ma/), I have designed and delivered training programs, helping companies and individuals upskill in machine learning, analytics, and data-driven decision-making.
+I have dedicated the past three years to learn and teaching Data Science across various industries. As an instructor at Algoritma Data Science School, I have designed and delivered training programs, helping companies and individuals upskill in machine learning, analytics, and data-driven decision-making.
 
 <p align="center">
 Beyond instruction, I have hands-on experience developing machine learning models and working on real-world projects that drive business impact. My background includes three years as a Product Manager in the retail and B2B sectors, where I combined analytical thinking with strategic execution.
