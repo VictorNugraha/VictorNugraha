@@ -8,10 +8,8 @@ Hello World, I'm Victor! 👋
 <a href="https://www.linkedin.com/in/victor-nugraha-baa694160/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:victor.nugraha37@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> 
 
-<p align="center">
 I have dedicated the past three years to learn and teaching Data Science across various industries. As an instructor at Algoritma Data Science School, I have designed and delivered training programs, helping companies and individuals upskill in machine learning, analytics, and data-driven decision-making.
 
-<p align="center">
 Beyond instruction, I have hands-on experience developing machine learning models and working on real-world projects that drive business impact. My background includes three years as a Product Manager in the retail and B2B sectors, where I combined analytical thinking with strategic execution.
 
 <div align="center">
@@ -26,7 +24,6 @@ Beyond instruction, I have hands-on experience developing machine learning model
 </h3>
 </div>
 
-<p align="center">
 - [Indonesia Stock Recommender](https://github.com/VictorNugraha/InvestNow-stock-buy-sell-hold-classification) <br>
 - [RAG for Stuctured Data](https://github.com/VictorNugraha/rag_for_genai) <br>
 - [PDF Summarizer & QnA](https://github.com/saskia-dwi-ulfah/pdf-qna-summarizer) <br>
@@ -37,12 +34,10 @@ Beyond instruction, I have hands-on experience developing machine learning model
 </h3>
 </div>
 
-<p align="center">
 - [Time Series Forecasting Dengan Framework Modeltime](https://rpubs.com/VicNP/modeltime_TSF) <br>
 - [Clustering Untuk Data Numerik & Kategorik](https://rpubs.com/VicNP/clust-num-cat) <br>
 - [Bagaimana Melakukan analisis Sentiment Pada Berita Harga Emas Dengan Model LSTM](https://rpubs.com/VicNP/sentiment-analysis-lstm) <br>
 
-<p align="center">
 ➡️ [More RPubs posts...](https://rpubs.com/VicNP)
 
 <div align="center">
