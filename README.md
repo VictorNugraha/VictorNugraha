@@ -18,21 +18,17 @@ Beyond instruction, I have hands-on experience developing machine learning model
 </h2>
 </div>
 
-<div align="center">
 <h3>
 🛠️ Projects 
 </h3>
-</div>
 
 - [Indonesia Stock Recommender](https://github.com/VictorNugraha/InvestNow-stock-buy-sell-hold-classification) <br>
 - [RAG for Stuctured Data](https://github.com/VictorNugraha/rag_for_genai) <br>
 - [PDF Summarizer & QnA](https://github.com/saskia-dwi-ulfah/pdf-qna-summarizer) <br>
 
-<div align="center">
 <h3>
 📕 Articles 
 </h3>
-</div>
 
 - [Time Series Forecasting Dengan Framework Modeltime](https://rpubs.com/VicNP/modeltime_TSF) <br>
 - [Clustering Untuk Data Numerik & Kategorik](https://rpubs.com/VicNP/clust-num-cat) <br>
