@@ -14,24 +14,42 @@ I have dedicated the past three years to learn and teaching Data Science across 
 <p align="center">
 Beyond instruction, I have hands-on experience developing machine learning models and working on real-world projects that drive business impact. My background includes three years as a Product Manager in the retail and B2B sectors, where I combined analytical thinking with strategic execution.
 
+<div align="center">
+<h2>
+🖊️ Projects & Articles
+</h2>
+</div>
 
-## 🖊️ Projects & Articles
+<div align="center">
+<h3>
+🛠️ Projects 
+</h3>
+</div>
 
-### 🛠️ Projects 
+<p align="center">
+- [Indonesia Stock Recommender](https://github.com/VictorNugraha/InvestNow-stock-buy-sell-hold-classification) <br>
+- [RAG for Stuctured Data](https://github.com/VictorNugraha/rag_for_genai) <br>
+- [PDF Summarizer & QnA](https://github.com/saskia-dwi-ulfah/pdf-qna-summarizer) <br>
 
-- [Indonesia Stock Recommender](https://github.com/VictorNugraha/InvestNow-stock-buy-sell-hold-classification)
-- [RAG for Stuctured Data](https://github.com/VictorNugraha/rag_for_genai)
-- [PDF Summarizer & QnA](https://github.com/saskia-dwi-ulfah/pdf-qna-summarizer)
-  
-### 📕 Articles 
+<div align="center">
+<h3>
+📕 Articles 
+</h3>
+</div>
 
-- [Time Series Forecasting Dengan Framework Modeltime](https://rpubs.com/VicNP/modeltime_TSF)
-- [Clustering Untuk Data Numerik & Kategorik](https://rpubs.com/VicNP/clust-num-cat)
-- [Bagaimana Melakukan analisis Sentiment Pada Berita Harga Emas Dengan Model LSTM](https://rpubs.com/VicNP/sentiment-analysis-lstm)
+<p align="center">
+- [Time Series Forecasting Dengan Framework Modeltime](https://rpubs.com/VicNP/modeltime_TSF) <br>
+- [Clustering Untuk Data Numerik & Kategorik](https://rpubs.com/VicNP/clust-num-cat) <br>
+- [Bagaimana Melakukan analisis Sentiment Pada Berita Harga Emas Dengan Model LSTM](https://rpubs.com/VicNP/sentiment-analysis-lstm) <br>
 
+<p align="center">
 ➡️ [More RPubs posts...](https://rpubs.com/VicNP)
 
-## ⚙️ Technologies I've been learning and using so far
+<div align="center">
+<h3>
+⚙️ Technologies I've been learning and using so far
+</h3>
+</div>
 
 - Programming languages : <br/>
     ![Build](https://img.shields.io/badge/R-Languange-blue)
